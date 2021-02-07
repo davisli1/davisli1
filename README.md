@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello! I'm Davis. 👋
 
-<!--
-**davisli1/davisli1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me**
+* 📖  Junior studying Finance at the University of British Columbia in Vancouver, Canada
+* 🏢  Incoming Fundamental Investment Analyst at CPP Investments
+* 📫  You can reach me at: davisli1@gmail.com
 
-Here are some ideas to get you started:
+**What I'm up to**
+* 🛠  Working on some Machine Learning projects
+* 📚  Learning about Neural Networks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Davis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davisli1&show_icons=true&hide_rank=true&hide_border=true)
+
+Thank you for stopping by!
