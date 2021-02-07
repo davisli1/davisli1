@@ -9,7 +9,4 @@
 * 🛠  Working on some Machine Learning projects
 * 📚  Learning about Neural Networks
 
-
-![Davis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davisli1&show_icons=true&hide_rank=true&hide_border=true)
-
 Thank you for stopping by!
