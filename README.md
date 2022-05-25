@@ -1,8 +1,8 @@
 ## Hello! I'm Davis. 👋
 
 **About Me**
-* 📖  Senior studying Finance at the University of British Columbia in Vancouver, Canada
-* 🏢  Tech Growth Equity/VC investor at CPP Investments
+* 📖  Studying Finance + Data Science at the University of British Columbia in Vancouver, Canada
+* 🏢  Tech Growth Equity/VC at CPP Investments
 * 📫  You can reach me at: davismxli@gmail.com
 
 **What I'm up to**
@@ -11,4 +11,4 @@
 
 Thank you for stopping by!
 
-Personal Website: www.davisli1.xyz 
+ 
