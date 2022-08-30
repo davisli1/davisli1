@@ -2,6 +2,7 @@
 
 **About Me**
 * 📖  Studying Finance + Data Science at the University of British Columbia in Vancouver, Canada
+* 🏢  Full Stack SWE at Instawork
 * 🏢  Tech Growth Equity/VC at CPP Investments
 * 📫  You can reach me at: davismxli@gmail.com
 
